@@ -1,4 +1,3 @@
-<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHk0d2lyMDYzMzNqNHYyOXE3Nm1ybnA4MHJvZTYzdno4eWQ4ZzRmbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/sGIxhunddTUOHlHXgu/giphy.gif" >
 <h1>👋 Hi, I’m Darcy (@darcyluojt) </h1>
 <img align="center" src="https://komarev.com/ghpvc/?username=darcyluojt&style=flat-square&color=orange" alt="github profile counter">
 - 👀 I’m interested in full-stack development in tech<br>
