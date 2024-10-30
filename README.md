@@ -2,7 +2,7 @@
 <img align="center" src="https://komarev.com/ghpvc/?username=darcyluojt&style=flat-square&color=orange" alt="github profile counter">
 - 👀 I’m interested in full-stack development in tech<br>
 - 🌱 Overall, I am passionate about Personal Development, Fitness, Health and Wellbeing. <br>
-- 💞️ I’m looking to collaborate on products in sectors such as People Development, Employee Experience, EdTech, Fitness Tech, Wellness Tech etc.<br>
+- 💞️ I’m looking to collaborate on products for People Development, Employee Experience, EdTech, Fitness Tech, Wellness Tech etc.<br>
 - 📫 How to reach me <a href="https://www.linkedin.com/in/darcyluo/"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt="linkedin link"></a><br>
 - 😄 Pronouns: she/her/elle <br>
 - ⚡ Fun fact: I ran 5 marathons 🏃‍♀️ <br>
