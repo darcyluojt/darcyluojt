@@ -4,7 +4,9 @@
 - 🌱 My passion out of work: Fitness, Health and Wellbeing. <br>
 - 📫 How to reach me <a href="https://www.linkedin.com/in/darcyluo/"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt="linkedin link"></a><br>
 - ⚡ Fun fact: I ran 5 marathons 🏃‍♀️. This is my <a href="https://www.instagram.com/darcylol_fitness"><img src="https://img.shields.io/badge/instagram-pink?logo=instagram&logoColor=red&style=for-the-badge" alt="instagram link"></a> as a fitness enthusiast. <br>
-- 📝 What I am working on? Advent of Code🌟, another Ruby on Rails app for meal planner, learning JavaScript
+- 📝 What I am working on? 
+  - SmartFeast: an app build with Ruby on Rails and React, helping user customize their meals and portion size depending on their needs. 
+  - Advent of Code🌟
 
 ### 👩‍💻 My projects
 - <a href="https://github.com/darcyluojt/rails-lift-logix#lift-logix"><strong>Lift Logix</strong></a>: Lift Logix is a web application developed over the course of 2 weeks. Designed for dedicated gym-goers, it helps users create personalized workout programs, customize exercise plans for each split, log weights and sets, track progress with charts, and receive weight/rep recommendations.
