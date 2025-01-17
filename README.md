@@ -5,7 +5,7 @@
 - 📫 How to reach me <a href="https://www.linkedin.com/in/darcyluo/"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt="linkedin link"></a>
 - ⚡ Fun fact: I ran 5 marathons 🏃‍♀️. This is my <a href="https://www.instagram.com/darcylol_fitness"><img src="https://img.shields.io/badge/instagram-pink?logo=instagram&logoColor=red&style=for-the-badge" alt="instagram link"></a> as a fitness enthusiast. 
 - 📝 What I am working on? <br>
-  - SmartFeast (check below!)
+  - <a href="https://reactonrails-86b92c77ca25.herokuapp.com/">SmartFeast</a> <- click here to discover amazing recipes. You don't even have to sign in=)
 
 ### 👩‍💻 My projects
 - <a href="https://github.com/darcyluojt/rails_smart_feast"><strong>SmartFeast</strong></a>: a post-bootcamp project. SmartFeast is a Ruby on Rails and React application featuring a Tinder-style recipe discovery interface, meal planning functionality, and automated shopping list generation. 
