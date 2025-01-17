@@ -5,10 +5,10 @@
 - 📫 How to reach me <a href="https://www.linkedin.com/in/darcyluo/"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt="linkedin link"></a>
 - ⚡ Fun fact: I ran 5 marathons 🏃‍♀️. This is my <a href="https://www.instagram.com/darcylol_fitness"><img src="https://img.shields.io/badge/instagram-pink?logo=instagram&logoColor=red&style=for-the-badge" alt="instagram link"></a> as a fitness enthusiast. 
 - 📝 What I am working on? <br>
-  - New project SmartFeast: an app built with Ruby on Rails and React, helping user customize their meals and portion size depending on their needs.
-  - Advent of Code🌟<br>
+  - SmartFeast (check below!)
 
 ### 👩‍💻 My projects
+- <a href="https://github.com/darcyluojt/rails_smart_feast"><strong>SmartFeast</strong></a>: a post-bootcamp project. SmartFeast is a Ruby on Rails and React application featuring a Tinder-style recipe discovery interface, meal planning functionality, and automated shopping list generation. 
 - <a href="https://github.com/darcyluojt/rails-lift-logix#lift-logix"><strong>Lift Logix</strong></a>: Lift Logix is a web application developed over the course of 2 weeks. Designed for dedicated gym-goers, it helps users create personalized workout programs, customize exercise plans for each split, log weights and sets, track progress with charts, and receive weight/rep recommendations.
 - <a href="https://github.com/darcyluojt/rails-fit-hub#fithub"><strong>Fit Hub</strong></a>: FitHub is a web application developed as part of a project during my bootcamp over the course of one week. It is a hypothetical gym management platform that enables gym members to book sessions and allows gym instructors to create and manage their workouts and schedules.
 
